@@ -1,0 +1,1 @@
+2025-01-11 20:33:13.226637: 'Choice' object has no attribute 'delta_content'

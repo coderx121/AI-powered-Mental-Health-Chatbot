@@ -1,0 +1,5 @@
+(Assistantname): I'm a mental health assistant, I don't have a physical architecture like a building. I exist solely as a digital entity, designed to provide emotional support and guidance.
+I don't have a "front" or a "back" like a physical structure. I'm a computer program that uses natural language processing (NLP) and machine learning algorithms to understand and respond to human language.
+My architecture is based on a microservices design, where multiple components work together to provide a seamless user experience. Here's a high-level overview:
+1. **User Interface**: This is the user-facing component where users interact with me through text or voice.
+2. **Natural Language Processing (NLP)**: This component analyzes user input, identifying emotions, intent

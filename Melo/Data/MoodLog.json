@@ -1,0 +1,789 @@
+[
+    {
+        "date": "2025-05-07",
+        "score": 0.0
+    },
+    {
+        "date": "2025-05-07",
+        "score": 0.0
+    },
+    {
+        "date": "2025-05-07",
+        "score": 0.0
+    },
+    {
+        "date": "2025-05-07",
+        "score": 0.0
+    },
+    {
+        "date": "2025-05-07",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08 10:12:24",
+        "score": 0.8,
+        "text": "I\u2019m feeling great today",
+        "recommendations": [
+            "Keep up the positive vibes! Share something positive with someone today.",
+            "Set a small goal for the day and celebrate when you achieve it."
+        ]
+    },
+    {
+        "date": "2025-05-08 10:18:47",
+        "score": 0.0,
+        "text": "hello melo",
+        "recommendations": [
+            "Take a short walk to clear your mind.",
+            "Listen to calming music: https://www.youtube.com/watch?v=1zyhZpE28P8",
+            "Practice deep breathing for 2 minutes."
+        ]
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.5,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": -0.06666666666666667,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-08",
+        "score": 0.5,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.6,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.6,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.9099999999999999,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.35,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.2857142857142857,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": -0.1,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": -0.1,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.2857142857142857,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": -0.5,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": -0.2861111111111111,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.2,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.13636363636363635,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.7,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.11818181818181817,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.8,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.13636363636363635,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.7,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.2857142857142857,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-10",
+        "score": 0.6,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.2,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": -0.5,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": -0.05681818181818182,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-12",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.6,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.2,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-13",
+        "score": 0.2,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-22",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-22",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-22",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-22",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-22",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-23",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-23",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-23",
+        "score": 0.0,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    },
+    {
+        "date": "2025-05-23",
+        "score": 0.3,
+        "calmness": 0.0,
+        "happiness": 0.0,
+        "anxiety": 0.0,
+        "stress": 0.0
+    }
+]
