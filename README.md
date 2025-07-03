@@ -1,65 +1,73 @@
 Mental Health Chatbot - AI-Powered Virtual Assistant
 -----------------------------------------------------
 
-Project Description:
----------------------
-This project is an AI-powered Mental Health Chatbot designed to provide emotional support, mood tracking, and mental health recommendations. The chatbot interacts with users through voice-based conversations, making the experience feel more natural and human-like. It also includes an advanced mood tracking system that analyzes user input, monitors emotional trends, and provides mental health insights.
+Project Overview:
+------------------
+This project is an AI-powered Mental Health Chatbot designed to provide mood tracking, emotional analysis, and interactive mental health support. The application features a simple graphical interface and uses voice/text-based interaction to help users track their mental well-being.
+
+The project follows a clean structure divided into:
+1. Frontend - GUI for user interaction  
+2. Backend - Core logic for mood analysis and chatbot responses  
+3. Main - Entry point to run the complete application  
+
+Project Structure:
+-------------------
+/frontend/       → All GUI components (Tkinter-based interface)  
+/backend/        → Mood analysis, sentiment detection, chatbot logic  
+/main.py         → Main application file to run the chatbot  
+/requirements.txt → List of required dependencies  
+/readme.txt      → Project documentation (this file)  
 
 Key Features:
 --------------
-✔ Voice-based interaction using speech recognition and text-to-speech  
-✔ Mood analysis based on user text inputs  
-✔ Graphical visualization of mood trends using Matplotlib  
-✔ Sentiment analysis for mental state detection  
-✔ Mental health recommendations based on detected mood  
-✔ Modular design for easy integration into desktop assistant applications  
-✔ Offline functionality (does not rely on external APIs for mood analysis)  
+✔ Voice & text-based mental health chatbot  
+✔ Mood tracking with graphical trend visualization  
+✔ Sentiment analysis using NLP techniques  
+✔ User-friendly GUI built with Tkinter  
+✔ Modular structure for easy maintenance and expansion  
+✔ Offline functionality for privacy  
 
 Technologies Used:
 -------------------
 - Python  
-- Tkinter (Graphical User Interface)  
-- SpeechRecognition  
-- Pyttsx3 (Text-to-speech)  
-- Matplotlib (Graph Visualization)  
-- Scikit-learn (Sentiment Analysis)  
-- NLTK (Natural Language Processing)  
+- Tkinter (Frontend GUI)  
+- SpeechRecognition & Pyttsx3 (Voice interaction)  
+- Matplotlib (Mood trend graphs)  
+- Scikit-learn & NLTK (Sentiment & mood analysis)  
 
-How to Run:
-------------
-1. Install required packages from `requirements.txt` using:  
+Setup Instructions:
+--------------------
+1. Install dependencies:  
    `pip install -r requirements.txt`  
 
-2. Run the main chatbot file:  
-   `python chatbot.py`  
+2. Run the application:  
+   `python main.py`  
 
-3. Speak or type your messages to interact with the chatbot.  
+3. Follow the on-screen instructions to interact with the chatbot.  
 
-4. To view mood trends, use the mood tracker graph functionality.  
+Folder Details:
+----------------
+/frontend/ contains:  
+    - `gui.py` → Main GUI window  
+    - `widgets.py` → Custom widgets/components  
 
-Project Structure:
--------------------
-- `chatbot.py` → Main chatbot logic  
-- `mood_tracker.py` → Mood tracking and graph generation module  
-- `utils/` → Helper functions and modules  
-- `requirements.txt` → List of dependencies  
-- `readme.txt` → Project overview (this file)  
+/backend/ contains:  
+    - `mood_tracker.py` → Mood analysis & trend graph generation  
+    - `chatbot_logic.py` → Chatbot response logic & sentiment analysis  
+    - `speech_module.py` → Voice recognition & text-to-speech  
+
+/main.py → Launches the complete application with frontend and backend integration  
 
 Future Improvements:
 ---------------------
+- Real-time emotion detection through voice tone analysis  
 - Integration with professional mental health resources  
-- Real-time emotion detection through tone analysis  
-- Anonymous user mood data storage for trend analysis  
+- User authentication and secure mood data storage  
+- LLM-based advanced conversation (ChatGPT-like responses)  
 - Multi-language support  
-- Improved AI conversation capabilities using LLMs  
 
-Note:
-------
-This chatbot is designed for basic mental health support and mood tracking. It is **not a replacement for professional psychological help**. If you are experiencing severe emotional distress, please consult a licensed therapist or mental health professional.
+Disclaimer:
+------------
+This chatbot is intended for general mental health awareness and mood tracking only. It is not a substitute for professional mental health services. If experiencing severe distress, please consult a licensed therapist.
 
-Contact:
----------
-Developer: Muhammad Haseeb  
-Email: [mh2267574@gmail.com]  
-LinkedIn: [https://www.linkedin.com/in/muhammad-haseeb-602912371]  
 
